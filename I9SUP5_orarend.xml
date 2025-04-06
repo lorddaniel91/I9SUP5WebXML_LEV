@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="I9SUP5_orarend.xsd">
+
+    <ora id="1" tipus="Elmélet">
+        <kurzus>Valószínűségszámítás és statisztika</kurzus>
+        <idopont>
+            <nap>3/1 szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Hárs terem</helyszin>
+        <oktato>Dr.FAJ</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="2" tipus="Gyakorlat">
+        <kurzus>Webkönyvtárak</kurzus>
+        <idopont>
+            <nap>3/1 szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Kabar terem</helyszin>
+        <oktato>Dr.BL</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="3" tipus="Gyakorlat">
+        <kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
+        <idopont>
+            <nap>3/8 szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Kabar terem</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="4" tipus="Elmélet">
+        <kurzus>Valószínűségszámítás és statisztika</kurzus>
+        <idopont>
+            <nap>3/8 szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Református 4 terem</helyszin>
+        <oktato>Dr. FAJ</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="5" tipus="Elmélet">
+        <kurzus>Komputergrafika és képfeldolgozás elmélet</kurzus>
+        <idopont>
+            <nap>3/21 péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="6" tipus="Elmélet">
+        <kurzus>Számításelmélet</kurzus>
+        <idopont>
+            <nap>3/29 szombat</nap>
+            <tol>09:00</tol>
+            <ig>15:25</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Dr. Veres Laura</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="7" tipus="Gyakorlat">
+        <kurzus>Alkalmazások fejlesztése projekt labor II.</kurzus>
+        <idopont>
+            <nap>4/5 szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="8" tipus="Gyakorlat">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok</kurzus>
+        <idopont>
+            <nap>4/5 szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    
+
