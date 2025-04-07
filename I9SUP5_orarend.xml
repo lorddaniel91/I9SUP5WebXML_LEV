@@ -99,5 +99,86 @@
         <szak>Programtervező-Informatikus BSc</szak>
     </ora>
 
-    <ora id="9" tipus="">
+    <ora id="9" tipus="Gyakorlat">
+        <kurzus>Webkönyvtárak</kurzus>
+        <idopont>
+            <nap>4/25 péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Ismeretlen</helyszin>
+        <oktato>Dr. BL</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
 
+    <ora id="10" tipus="Elmélet">
+        <kurzus>Valószínűségszámítás és statisztika</kurzus>
+        <idopont>
+            <nap>4/26 szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Ismeretlen</helyszin>
+        <oktato>Dr. FAJ</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="11" tipus="Elmélet">
+        <kurzus>Komputergrafika és képfeldolgozás</kurzus>
+        <idopont>
+            <nap>5/9 péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="12" tipus="Elmélet">
+        <kurzus>Valószínűségszámítás és statisztika</kurzus>
+        <idopont>
+            <nap>5/10 szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Ismeretlen</helyszin>
+        <oktato>Dr. FAJ</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="13" tipus="Gyakorlat">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok</kurzus>
+        <idopont>
+            <nap>5/10 szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Ismeretlen</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="14" tipus="Gyakorlat">
+        <kurzus>Oktatás és gamifikáció, videójáték-tanulmányok</kurzus>
+        <idopont>
+            <nap>5/16 péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Ismeretlen</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
+
+    <ora id="15" tipus="Elmélet">
+        <kurzus>Számításelmélet</kurzus>
+        <idopont>
+            <nap>5/24 szombat</nap>
+            <tol>09:00</tol>
+            <ig>10:25</ig>
+        </idopont>
+        <helyszin>Online ZH</helyszin>
+        <oktato>Dr. Veres Laura</oktato>
+        <szak>Programtervező-Informatikus BSc</szak>
+    </ora>
