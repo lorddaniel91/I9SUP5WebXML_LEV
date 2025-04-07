@@ -7,26 +7,43 @@
         body {
             font-family: Arial, sans-serif;
             padding: 20px;
-            background-color: #f8f8f8;
+            min-height: 100vh;
+            background: linear-gradient(to bottom, 
+                #013220 0%, 
+                #013220 25%, 
+                #000000 100%
+            );
+            color: #ffffff;
         }
+    
         table {
             width: 100%;
             border-collapse: collapse;
-            background-color: white;
+            background-color: rgba(0, 0, 0, 0.85);
+            box-shadow: 0 0 10px #39ff14;
         }
+    
         th, td {
-            border: 1px solid #ccc;
-            padding: 8px;
+            border: 1px solid #444;
+            padding: 10px;
             text-align: center;
         }
+    
         th {
-            background-color: #0077cc;
-            color: white;
+            background-color: #14532d;
+            color: #ffffff;
+            text-shadow: 1px 1px #000;
         }
+    
         tr:nth-child(even) {
-            background-color: #f0f0f0;
+            background-color: rgba(34, 139, 34, 0.15);
+        }
+    
+        tr:hover {
+            background-color: rgba(57, 255, 20, 0.2);
         }
     </style>
+    
 </head>
 <body>
     <h1>2025 Tavaszi Órarend</h1>
